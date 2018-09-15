@@ -145,30 +145,30 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 #### **[SecuritySift](https://twitter.com/SecuritySift)**
 
-[`Windows Exploit Development – Part 1: The Basics`](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - 
+[`Windows Exploit Development – Part 1: The Basics`](https://www.securitysift.com/windows-exploit-development-part-1-basics/)
 
-[`Windows Exploit Development – Part 2: Intro-Stack-Overflow`](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 2: Intro-Stack-Overflow`](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/)
 
-[`Windows Exploit Development – Part 3: Changing-Offsets-and-Rebased-Modules`](https://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 3: Changing-Offsets-and-Rebased-Modules`](https://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/)
 
-[`Windows Exploit Development – Part 4: Locating-Shellcode-Jumps`](https://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 4: Locating-Shellcode-Jumps`](https://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/)
 
-[`Windows Exploit Development – Part 5: Locating-Shellcode-Egghunting`](https://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 5: Locating-Shellcode-Egghunting`](https://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/)
 
-[`Windows Exploit Development – Part 6: Seh-Exploits`](https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 6: Seh-Exploits`](https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/)
 
-[`Windows Exploit Development – Part 7: Unicode-Buffer-Overflows`](https://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 7: Unicode-Buffer-Overflows`](https://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows/)
 
-#### shogun_lab
+#### **[shogun_lab](https://twitter.com/shogun_lab)**
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]`](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]`](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html) 
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]`](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 1 [Stack Buffer Overflow Intro]`](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]`](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 2 [JMP to Locate Shellcode]`](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]`](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 3 [Egghunter to Locate Shellcode]`](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 4 [Overwriting SEH with Buffer Overflows]`](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 4 [Overwriting SEH with Buffer Overflows]`](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
 
-[`Zero Day Zen Garden: Windows Exploit Development - Part 5 [Return Oriented Programming Chains]`](http://www.shogunlab.com/blog/2018/02/11/zdzg-windows-exploit-5.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
+[`Zero Day Zen Garden: Windows Exploit Development - Part 5 [Return Oriented Programming Chains]`](http://www.shogunlab.com/blog/2018/02/11/zdzg-windows-exploit-5.html)
