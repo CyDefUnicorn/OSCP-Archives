@@ -143,6 +143,8 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Over The Wire - Wargames`](http://overthewire.org/wargames/) - **OverTheWire**
 
+#### SecuritySift
+
 [`Windows Exploit Development – Part 1: The Basics`](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - **[SecuritySift](https://twitter.com/SecuritySift)**
 
 [`Windows Exploit Development – Part 2: Intro-Stack-Overflow`](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/) - **[SecuritySift](https://twitter.com/SecuritySift)**
@@ -156,6 +158,8 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Windows Exploit Development – Part 6: Seh-Exploits`](https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/) - **[SecuritySift](https://twitter.com/SecuritySift)**
 
 [`Windows Exploit Development – Part 7: Unicode-Buffer-Overflows`](https://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+
+#### shogun_lab
 
 [`Zero Day Zen Garden: Windows Exploit Development - Part 0 [Dev Setup & Advice]`](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html) - **[shogun_lab](https://twitter.com/shogun_lab)**
 
