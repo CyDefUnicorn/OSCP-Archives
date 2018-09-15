@@ -9,11 +9,11 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 ## Enjoy!
 
 
-### Official Exam Guide
+### ~ Official Exam Guide ~
 
 [`OSCP Certification Exam Guide`](https://support.offensive-security.com/#!oscp-exam-guide.md) - **Offensive Security**
 
-### Reviews and Experiences
+### ~ Reviews and Experiences ~
 
 [`31 Days of OSCP Experience`](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/) - **[ParanoidNinja](https://twitter.com/ninjaparanoid)**
 
@@ -25,7 +25,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Experience and the first torture!`](https://www.peerlyst.com/posts/oscp-experience-and-the-first-torture-nitesh-shilpkar-osce-oscp-oswp-ceh-crest) - **Nitesh Shilpkar**
 
-### Helpful VMs for Practice 
+### ~ Helpful VMs for Practice ~
 
 [`Kioptrix`](https://sushant747.gitbooks.io/total-oscp-guide/content/) - **[loneferret](https://twitter.com/loneferret)**
 
@@ -35,7 +35,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Pinky's Palace CTFs`](https://pinkysplanet.net/tag/ctf/) - **[Pink_Panther](https://twitter.com/Pink_P4nther)**
 
-### CTF Walkthroughs & Educational Videos
+### ~ CTF Walkthroughs & Educational Videos ~
 
 [`Hack The Box CTFs`](https://www.youtube.com/ippsec) - **[ippsec](https://twitter.com/ippsec)**
 
@@ -43,7 +43,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`VunHub Walkthroughs`](https://highon.coffee/blog/walkthroughs/) - **[Arr0way](https://twitter.com/Arr0way)**
 
-### OSCP Prep, Tools, Cheatsheets, Guides, etc.
+### ~ OSCP Prep, Tools, Cheatsheets, Guides, etc. ~
 
 [`15 Ways to Download a File`](https://blog.netspi.com/15-ways-to-download-a-file/) - **[NetSPI](https://twitter.com/NetSPI)**
 
@@ -111,13 +111,13 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Journey: Python Code Challenges`](https://www.peerlyst.com/posts/oscp-journey-python-code-challenges-elias-ibrahim-cissp?utm_source=linkedin&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) - **Elias Ibrahim**
 
-### Linux Privilege Escalation
+### ~ Linux Privilege Escalation ~
 
 [`OSCP - Linux Priviledge Escalation`](https://hackingandsecurity.blogspot.com/2017/09/oscp-linux-priviledge-escalation.html?m=1) - **WarLord**
 
 [`Basic Linux Privilege Escalation`](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - **[g0tmi1k](https://twitter.com/g0tmi1k)**
 
-### Windows Privilege Escalation
+### ~ Windows Privilege Escalation ~
 
 [`OSCP - Windows Priviledge Escalation`](https://hackingandsecurity.blogspot.com/2017/09/oscp-windows-priviledge-escalation.html) - **WarLord**
 
@@ -127,13 +127,13 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Windows Privilege Escalation Fundamentals`](http://www.fuzzysecurity.com/tutorials/16.html) - **[FuzzySec (b33f)](https://twitter.com/FuzzySec)**
 
-### LFI & RFI
+### ~ LFI & RFI ~
 
 [`PHP Local and Remote File Inclusion (LFI, RFI) Attacks`](https://hackingandsecurity.blogspot.com/2017/09/php-local-and-remote-file-inclusion-lfi.html) - **WarLord**
 
 [`LFI Cheat Sheet`](https://highon.coffee/blog/lfi-cheat-sheet/) - **[Arr0way](https://twitter.com/Arr0way)**
 
-### Exploits & Exploit Developtment, Tutorials
+### ~ Exploits & Exploit Developtment, Tutorials ~
 
 [`Windows & Linux Exploit Development`](http://www.fuzzysecurity.com/tutorials.html) - **[FuzzySec (b33f)](https://twitter.com/FuzzySec)**
 
@@ -143,9 +143,9 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Over The Wire - Wargames`](http://overthewire.org/wargames/) - **OverTheWire**
 
-#### SecuritySift
+#### **[SecuritySift](https://twitter.com/SecuritySift)**
 
-[`Windows Exploit Development – Part 1: The Basics`](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - **[SecuritySift](https://twitter.com/SecuritySift)**
+[`Windows Exploit Development – Part 1: The Basics`](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - 
 
 [`Windows Exploit Development – Part 2: Intro-Stack-Overflow`](https://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/) - **[SecuritySift](https://twitter.com/SecuritySift)**
 
