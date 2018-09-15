@@ -8,6 +8,6 @@ PS. A VERY big thank you to all the authors of these resources, for taking the t
 
 ## Enjoy!
 
-[`31 Days of OSCP Experience`](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/) -**[ParanoidNinja](https://twitter.com/ninjaparanoid)**
+[`31 Days of OSCP Experience`](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/) - **[ParanoidNinja](https://twitter.com/ninjaparanoid)**
 
-[`Detailed Guide on OSCP Prep – From Newbie to OSCP`](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/) -**Ramkisan Mohan**
+[`Detailed Guide on OSCP Prep – From Newbie to OSCP`](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/) - **Ramkisan Mohan**
