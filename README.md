@@ -8,4 +8,4 @@ PS. A VERY big thank you to all the authors of these resources, for taking the t
 
 ## Enjoy!
 
-(https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/){:target="_blank"} - **[ParanoidNinja](https://twitter.com/ninjaparanoid)**
+https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/ - **[ParanoidNinja](https://twitter.com/ninjaparanoid)**
