@@ -53,6 +53,8 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 ### ~ OSCP Prep, Tools, Cheatsheets, Guides, etc. ~
 
+[`Metasploit Unleashed`](https://www.offensive-security.com/metasploit-unleashed/) - **Offensive Security**
+
 [`15 Ways to Download a File`](https://blog.netspi.com/15-ways-to-download-a-file/) - **[NetSPI](https://twitter.com/NetSPI)**
 
 [`Explain Shell - Great at explaining Linux Commands in Detail`](https://www.explainshell.com/) - **Idan Kamara**
