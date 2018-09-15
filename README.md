@@ -45,7 +45,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Hack The Box CTFs`](https://www.youtube.com/ippsec) - **[ippsec](https://twitter.com/ippsec)**
 
-[`Hack The Box, Over The Wire, Other CTFs`](https://www.youtube.com/derekrook) - **[ippsec](https://twitter.com/derekrook)**
+[`Hack The Box, Over The Wire, Other CTFs`](https://www.youtube.com/derekrook) - **[derekrook](https://twitter.com/derekrook)**
 
 [`VunHub Walkthroughs`](https://highon.coffee/blog/walkthroughs/) - **[Arr0way](https://twitter.com/Arr0way)**
 
