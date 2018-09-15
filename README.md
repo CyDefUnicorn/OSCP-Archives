@@ -13,6 +13,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Certification Exam Guide`](https://support.offensive-security.com/#!oscp-exam-guide.md) - **Offensive Security**
 
+
 ### ~ Reviews and Experiences ~
 
 [`31 Days of OSCP Experience`](https://scriptdotsh.com/index.php/2018/04/17/31-days-of-oscp-experience/) - **[ParanoidNinja](https://twitter.com/ninjaparanoid)**
@@ -25,6 +26,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Experience and the first torture!`](https://www.peerlyst.com/posts/oscp-experience-and-the-first-torture-nitesh-shilpkar-osce-oscp-oswp-ceh-crest) - **Nitesh Shilpkar**
 
+
 ### ~ Helpful VMs for Practice ~
 
 [`Kioptrix`](https://sushant747.gitbooks.io/total-oscp-guide/content/) - **[loneferret](https://twitter.com/loneferret)**
@@ -35,6 +37,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Pinky's Palace CTFs`](https://pinkysplanet.net/tag/ctf/) - **[Pink_Panther](https://twitter.com/Pink_P4nther)**
 
+
 ### ~ CTF Walkthroughs & Educational Videos ~
 
 [`Hack The Box CTFs`](https://www.youtube.com/ippsec) - **[ippsec](https://twitter.com/ippsec)**
@@ -42,6 +45,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Hack The Box, Over The Wire, Other CTFs`](https://www.youtube.com/derekrook) - **[ippsec](https://twitter.com/derekrook)**
 
 [`VunHub Walkthroughs`](https://highon.coffee/blog/walkthroughs/) - **[Arr0way](https://twitter.com/Arr0way)**
+
 
 ### ~ OSCP Prep, Tools, Cheatsheets, Guides, etc. ~
 
@@ -111,11 +115,13 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Journey: Python Code Challenges`](https://www.peerlyst.com/posts/oscp-journey-python-code-challenges-elias-ibrahim-cissp?utm_source=linkedin&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) - **Elias Ibrahim**
 
+
 ### ~ Linux Privilege Escalation ~
 
 [`OSCP - Linux Priviledge Escalation`](https://hackingandsecurity.blogspot.com/2017/09/oscp-linux-priviledge-escalation.html?m=1) - **WarLord**
 
 [`Basic Linux Privilege Escalation`](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - **[g0tmi1k](https://twitter.com/g0tmi1k)**
+
 
 ### ~ Windows Privilege Escalation ~
 
@@ -127,11 +133,13 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Windows Privilege Escalation Fundamentals`](http://www.fuzzysecurity.com/tutorials/16.html) - **[FuzzySec (b33f)](https://twitter.com/FuzzySec)**
 
+
 ### ~ LFI & RFI ~
 
 [`PHP Local and Remote File Inclusion (LFI, RFI) Attacks`](https://hackingandsecurity.blogspot.com/2017/09/php-local-and-remote-file-inclusion-lfi.html) - **WarLord**
 
 [`LFI Cheat Sheet`](https://highon.coffee/blog/lfi-cheat-sheet/) - **[Arr0way](https://twitter.com/Arr0way)**
+
 
 ### ~ Exploits & Exploit Developtment, Tutorials ~
 
@@ -142,6 +150,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Exploit Development - Starting from Part 1`](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - **Corelan Team**
 
 [`Over The Wire - Wargames`](http://overthewire.org/wargames/) - **OverTheWire**
+
 
 #### **[SecuritySift](https://twitter.com/SecuritySift)**
 
@@ -158,6 +167,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Windows Exploit Development – Part 6: Seh-Exploits`](https://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/)
 
 [`Windows Exploit Development – Part 7: Unicode-Buffer-Overflows`](https://www.securitysift.com/windows-exploit-development-part-7-unicode-buffer-overflows/)
+
 
 #### **[shogun_lab](https://twitter.com/shogun_lab)**
 
