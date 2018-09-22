@@ -83,19 +83,11 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP-Prep`](https://github.com/rhodejo/OSCP-Prep) - **rhodejo**
 
-[`OSCP Tools`](https://github.com/cokebottle/oscp-tools) - **cokebottle**
-
 [`OSCP Scripts`](https://github.com/garyhooks/oscp) - **garyhooks**
 
 [`OSCP Scripts & Documents`](https://github.com/ihack4falafel/OSCP) - **ihack4falafel**
 
-[`OSCP Scripts`](https://github.com/sdvincent/oscp) - **sdvincent**
-
 [`OSCP Recon Script`](https://github.com/xapax/oscp) - **xapax**
-
-[`My personal notes for OSCP`](https://github.com/generaldespair/OSCP) - **generaldespair**
-
-[`OSCP Notes`](https://github.com/kyawthiha7/oscp_notes) - **kyawthiha7**
 
 [`OSCP Cheat Sheet`](https://github.com/mikaelkall/OSCP-cheat-sheet) - **mikaelkall**
 
@@ -104,8 +96,6 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`OSCP-Repo`](https://github.com/rewardone/OSCPRepo) - **rewardone**
 
 [`Cheatsheets`](https://github.com/slyth11907/Cheatsheets) - **slyth11907**
-
-[`OSCP-Survival-Guide`](https://github.com/Sturmrufer/OSCP-Survival-Guide_) - **Sturmrufer**
 
 [`OSCP tricks`](https://hackingandsecurity.blogspot.com/2017/09/oscp-tricks.html) - **WarLord**
 
