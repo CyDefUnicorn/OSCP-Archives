@@ -89,8 +89,6 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Recon Script`](https://github.com/xapax/oscp) - **xapax**
 
-[`OSCP Cheat Sheet`](https://github.com/mikaelkall/OSCP-cheat-sheet) - **mikaelkall**
-
 [`Cheatsheet-God`](https://github.com/OlivierLaflamme/Cheatsheet-God) - **OlivierLaflamme**
 
 [`OSCP-Repo`](https://github.com/rewardone/OSCPRepo) - **rewardone**
