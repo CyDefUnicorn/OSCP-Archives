@@ -109,6 +109,21 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Journey: Python Code Challenges`](https://www.peerlyst.com/posts/oscp-journey-python-code-challenges-elias-ibrahim-cissp?utm_source=linkedin&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) - **Elias Ibrahim**
 
+[`SMB Enumeration Checklist`](https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html) - **[0xdf](https://twitter.com/0xdf_)**
+
+[`Tunneling and Pivoting`](https://0xdf.gitlab.io/2018/11/02/pwk-notes-tunneling.html) - **[0xdf](https://twitter.com/0xdf_)**
+
+[`Post-Exploitation Windows File Transfers with SMB`](https://0xdf.gitlab.io/2018/10/11/pwk-notes-post-exploitation-windows-file-transfers.html) - **[0xdf](https://twitter.com/0xdf_)**
+
+[`Multiple Ways to Exploit Tomcat Manager`](https://www.hackingarticles.in/multiple-ways-to-exploit-tomcat-manager/) - **[Raj Chande](https://twitter.com/rajchandel)**
+
+
+### ~ SQL Injection ~
+
+[`Preliminary SQL Injection Part 1`](https://jtnydv.xyz/2018/12/25/preliminary-sql-injection-part-1/) - **Jatin Yadav**
+
+[`Preliminary SQL Injection Part 2`](https://jtnydv.xyz/2018/12/27/preliminary-sql-injection-part-2/) - **Jatin Yadav**
+
 
 
 ### ~ Linux Privilege Escalation ~
