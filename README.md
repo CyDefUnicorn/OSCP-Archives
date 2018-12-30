@@ -124,6 +124,21 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Preliminary SQL Injection Part 2`](https://jtnydv.xyz/2018/12/27/preliminary-sql-injection-part-2/) - **Jatin Yadav**
 
+[`Informix SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/informix-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`MSSQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`Oracle SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/oracle-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`MySQL SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`Postgres SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/postgres-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`DB2 SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/db2-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`Ingres SQL Injection Cheat Sheet`](http://pentestmonkey.net/cheat-sheet/sql-injection/ingres-sql-injection-cheat-sheet) - **pentestmonkey**
+
+[`SQL Injection Reference Library & Techniques`](http://www.sqlinjection.net/what-is/) - **SQLINjection**
 
 
 ### ~ Linux Privilege Escalation ~
