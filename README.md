@@ -245,7 +245,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 ### ~ Linux One-Liners ~ **[kindredsec](https://twitter.com/kindredsec)**
 *Stomp a timestamp to match other install-time files*
 
-[`touch -a -m -t $(stat -c '%y' /bin/bash | cut -d ":" -f 1,2 | sed 's/[- :]//g') malicious_file.sh`]
+`touch -a -m -t $(stat -c '%y' /bin/bash | cut -d ":" -f 1,2 | sed 's/[- :]//g') malicious_file.sh`
 
 *Prevent ran bash commands from being written to a history file*
 
