@@ -11,7 +11,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 ### ~ Official Exam Guide ~
 
-[`OSCP Certification Exam Guide`](https://support.offensive-security.com/#!oscp-exam-guide.md) - **Offensive Security**
+[`OSCP Certification Exam Guide`](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions) - **Offensive Security**
 
 
 
@@ -39,11 +39,15 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Pinky's Palace CTFs`](https://pinkysplanet.net/tag/ctf/) - **[Pink_Panther](https://twitter.com/Pink_P4nther)**
 
+[`Hack The Box OSCP-like VMs`](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159) - **[Tony](https://twitter.com/TJ_Null)**
+
 
 
 ### ~ CTF Walkthroughs & Educational Videos ~
 
 [`Hack The Box CTFs`](https://www.youtube.com/ippsec) - **[ippsec](https://twitter.com/ippsec)**
+
+[`Search Ippsec's Videos for Specific Topics`](https://ippsec.rocks/#) - **[ippsec](https://twitter.com/ippsec)**
 
 [`Hack The Box, Over The Wire, Other CTFs`](https://www.youtube.com/derekrook) - **[derekrook](https://twitter.com/derekrook)**
 
@@ -113,9 +117,36 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Tunneling and Pivoting`](https://0xdf.gitlab.io/2018/11/02/pwk-notes-tunneling.html) - **[0xdf](https://twitter.com/0xdf_)**
 
+[`Tunneling and Port Forwarding`](https://book.hacktricks.xyz/tunneling-and-port-forwarding) - **HackTricks**
+
 [`Post-Exploitation Windows File Transfers with SMB`](https://0xdf.gitlab.io/2018/10/11/pwk-notes-post-exploitation-windows-file-transfers.html) - **[0xdf](https://twitter.com/0xdf_)**
 
 [`Multiple Ways to Exploit Tomcat Manager`](https://www.hackingarticles.in/multiple-ways-to-exploit-tomcat-manager/) - **[Raj Chande](https://twitter.com/rajchandel)**
+
+[`PHP Web Shell`](https://github.com/WhiteWinterWolf/wwwolf-php-webshell) - **WhiteWinterWolf**
+
+[`Msfvenom Cheat Sheet`](https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/) - **[LucianNitescu](https://twitter.com/LucianNitescu)**
+
+[`Linux Shells`](https://book.hacktricks.xyz/shells/linux) - **HackTricks**
+
+[`Windows Shells`](https://book.hacktricks.xyz/shells/windows) - **HackTricks**
+
+[`Dumping Clear-Text Credentials`](https://pentestlab.blog/2018/04/04/dumping-clear-text-credentials/) - **Pentestlab**
+
+
+
+### ~ Brute Force ~
+
+[`Brute Force - CheatSheet`](https://book.hacktricks.xyz/brute-force) - **HackTricks**
+
+
+
+### ~ Checklists ~
+
+[`Checklist - Linux Privilege Escalation`](https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist) - **HackTricks**
+
+[`Checklist - Local Windows Privilege Escalation`](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation) - **HackTricks**
+
 
 
 ### ~ SQL Injection ~
@@ -141,11 +172,16 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`SQL Injection Reference Library & Techniques`](http://www.sqlinjection.net/what-is/) - **SQLINjection**
 
 
+
 ### ~ Linux Privilege Escalation ~
 
 [`OSCP - Linux Priviledge Escalation`](https://hackingandsecurity.blogspot.com/2017/09/oscp-linux-priviledge-escalation.html?m=1) - **WarLord**
 
 [`Basic Linux Privilege Escalation`](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) - **[g0tmi1k](https://twitter.com/g0tmi1k)**
+
+[`Linux Priv escalation`](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - **carlospolop**
+
+[`Linux Privilege Escalation`](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - **HackTricks**
 
 
 
@@ -158,6 +194,10 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Windows Priv escalation`](https://github.com/kyawthiha7/oscp_notes/blob/master/windows_priv_escalation.md) - **kyawthiha7**
 
 [`Windows Privilege Escalation Fundamentals`](http://www.fuzzysecurity.com/tutorials/16.html) - **[FuzzySec (b33f)](https://twitter.com/FuzzySec)**
+
+[`Windows Priv escalation`](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - **carlospolop**
+
+[`Windows Local Privilege Escalation`](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation) - **HackTricks**
 
 
 
@@ -178,6 +218,16 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 [`Exploit Development - Starting from Part 1`](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - **Corelan Team**
 
 [`Over The Wire - Wargames`](http://overthewire.org/wargames/) - **OverTheWire**
+
+[`Unix Privilege Escalation Exploits`](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack) - **Kabot**
+
+
+
+### ~ Windows & linux Kernel Exploits ~
+
+[`Windows Kernel Exploits`](https://github.com/SecWiki/windows-kernel-exploits) - **SecWiki**
+
+[`Linux Kernel Exploits`](https://github.com/lucyoa/kernel-exploits) - **lucyoa**
 
 
 
