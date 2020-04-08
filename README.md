@@ -133,6 +133,8 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`Dumping Clear-Text Credentials`](https://pentestlab.blog/2018/04/04/dumping-clear-text-credentials/) - **Pentestlab**
 
+[`OSCP Exam Report Template in Markdown`](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - **noraj**
+
 
 
 ### ~ Brute Force ~
