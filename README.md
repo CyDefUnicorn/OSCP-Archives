@@ -135,6 +135,7 @@ PS. A VERY big **thank you** to all the authors of these resources, for taking t
 
 [`OSCP Exam Report Template in Markdown`](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - **noraj**
 
+[`OSCP Omnibus`](https://github.com/alexiasa/oscp-omnibus/) - **alexiasa**
 
 
 ### ~ Brute Force ~
